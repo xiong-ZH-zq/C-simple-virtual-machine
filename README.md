@@ -1,2 +1,2 @@
 # C-simple-virtual-machine
-A simple VM in C that support 10 instruction.
+This is the mid-term homework of "C Programming Language" in NKU. I had made a simple virtual machine that support 10 instructions.
